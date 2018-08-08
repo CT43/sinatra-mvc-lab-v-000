@@ -12,7 +12,7 @@ class PigLatinizer
   end
 
   def latinize(word)
-    if word[0] 
+    binding.pry
   end
 
 
