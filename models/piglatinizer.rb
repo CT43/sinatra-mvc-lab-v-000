@@ -6,7 +6,7 @@ class PigLatinizer
     @text
   end
 
-  
+
 
 
 
