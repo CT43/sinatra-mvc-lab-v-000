@@ -10,5 +10,5 @@ class App < Sinatra::Base
   post '/' do
     @latinized_text = PigLatinizer.new(params[:user_text])
   end
-  
+
 end
