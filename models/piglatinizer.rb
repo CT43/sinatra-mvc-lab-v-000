@@ -11,7 +11,7 @@ class PigLatinizer
     letter.match(/[AaEeIiOoUu]/)
   end
 
-  def pig.latinize(word)
+  def piglatinize(word)
     binding.pry
   end
 
